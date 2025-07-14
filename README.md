@@ -61,7 +61,7 @@ Structure files in ZIP archives are in VASP POSCAR format, compatible with ASE, 
 
 Analysis notebooks for data exploration and visualization:
 - `demo_InDomain_H_ads.ipynb` - In-domain hydrogen adsorption analysis
-- `SurfaceEnergy_ASCat_demo.ipynb` - Surface energy and Activity-Stability-Cost analysis
+- `SurfaceEnergy_ASCat_demo.ipynb` - Surface energy Calculations and Surface reconstruction detection 
 
 ## Contact
 
