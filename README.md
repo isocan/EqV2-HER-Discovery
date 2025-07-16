@@ -63,6 +63,23 @@ Analysis notebooks for data exploration and visualization:
 - `demo_InDomain_H_ads.ipynb` - In-domain hydrogen adsorption analysis
 - `SurfaceEnergy_ASCat_demo.ipynb` - Surface energy Calculations and Surface reconstruction detection 
 
+## Citation
+
+If you use this dataset, structures, or analysis from our manuscript, please cite:
+
+```bibtex
+@article{oguz2025ml,
+  title={Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction},
+  author={Oguz, Ismail Can and Khossossi, Nabil and Brunacci, Marco and Bucak, Haldun and Er, Süleyman},
+  journal={ChemRxiv},
+  year={2025},
+  doi={10.26434/chemrxiv-2025-0whpn},
+  url={https://chemrxiv.org/engage/chemrxiv/article-details/6874f7ed23be8e43d62848a8}
+}
+```
+
+**Preprint**: [Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction](https://chemrxiv.org/engage/chemrxiv/article-details/6874f7ed23be8e43d62848a8)
+
 ## Contact
 
 **Corresponding Author**: Süleyman Er (s.er@differ.nl)  
